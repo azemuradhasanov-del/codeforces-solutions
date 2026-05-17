@@ -1,9 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
-#define itn long long
+#define int long long
 signed main(){
     int n,m;
     cin>>n>>m;
     cout<<(n*m)/2;
-
 }
